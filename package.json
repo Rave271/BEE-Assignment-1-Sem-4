@@ -1,0 +1,15 @@
+{
+  "name": "fsmodule",
+  "version": "1.0.0",
+  "description": "Objective: Create an Express.js application that logs essential request information (timestamp,",
+  "main": "URL, protocol, HTTP method, and hostname) to a file using the fs (File System) module.",
+  "scripts": {
+    "test": "l help you understand middleware in Express.js and how to interact with the file",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
